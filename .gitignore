@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+historical_data_raw/
+testing.ipynb
+.DS_Store
+settings.json
+tokens.py
+__pycache__/
+*.pyc
+.vscode
+.ipynb_checkpoints
+temp/
+test/
+test copy/
+.idea
+.env
+%weather_data/
+states/

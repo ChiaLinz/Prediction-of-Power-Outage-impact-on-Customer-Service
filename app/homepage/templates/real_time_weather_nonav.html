@@ -1,0 +1,49 @@
+{% extends 'layout.html' %} 
+{% block css %}
+<link
+  rel="stylesheet"
+  href="{{ url_for('homepage_bp.static', filename='home.css') }}"
+/>
+{% endblock %} 
+
+{% block content %}
+
+<main>
+
+  <div class="container-fluid">
+    <h4>Real Time Weather</h4>
+    <form action="{{ url_for('homepage_bp.real_time_weather_no_nav') }}" method="post">
+      <div class="form-row align-items-center">
+        <div class="col-auto mb-3 input-group">
+          <input class="form-control mr-sm-2 form-control-sm" type="search" name="search" placeholder="Location" aria-label="Search" value="{{ search }}">
+          <input class="btn btn-light btn-outline-success btn-sm" type="submit" value="Search" id="search_submit" name="search_submit">
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <div class="site-header-logo">
+    <h5 class="text-center">
+      {% if search %} Search result: {{ search }} {% endif %}
+    </h5>
+    <p class="text-center">{{ description }}</p>
+  </div>
+
+  {% if graph1 %}
+  <div class="row p-4">
+    <div class="card m-auto" style="width: 90%" data-aos="fade-left">
+      <div class="card-body">
+        <div id="chart1"></div>
+        <p class="card-text"></p>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script type="text/javascript">
+    var graphs1 = {{ graph1|safe }};
+    Plotly.plot("chart1", graphs1, {});
+  </script>
+</main>
+{% endblock %}

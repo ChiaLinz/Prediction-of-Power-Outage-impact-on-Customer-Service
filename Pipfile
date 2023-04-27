@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+requests = "*"
+tensorflow = "*"
+ipykernel = "*"
+xlrd = "*"
+addfips = "*"
+aiohttp = "*"
+more-itertools = "*"
+plotly = "*"
+nbformat = "*"
+flask = "*"
+flask-sqlalchemy = "*"
+scikit-learn = "*"
+seaborn = "*"
+imblearn = "*"
+xgboost = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

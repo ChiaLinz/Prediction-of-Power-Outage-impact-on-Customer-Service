@@ -1,0 +1,29 @@
+{% extends 'layout.html' %}
+{% block css %}
+    <title>Outage Viewer</title>
+    <link rel="stylesheet" href="{{ url_for('homepage_bp.static', filename='home.css') }}">
+{% endblock %}
+
+{% block content %}
+    {% include 'nav.html' %}
+    <main>
+        <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js' type='text/javascript'></script>
+        <script type="text/javascript">
+        function autoResize(iframe) {
+            $(iframe).height(450);
+        }
+        function autoResizeFull(iframe) {
+            $(iframe).height($(iframe).contents().find('html').height());
+        }
+        </script>
+    
+        <div class="flex-container">
+            <iframe class="flex-map" onload="autoResize(this);" src="{{ url_for('homepage_bp.outage_map') }}?navflag=False" width="50%" frameborder="0"></iframe> 
+            <iframe class="flex-search" onload="autoResizeFull(this);" src="{{ url_for('homepage_bp.reg_model_no_nav') }}" width="50%" frameborder="0"></iframe> 
+            <iframe class="flex-search" src="{{ url_for('homepage_bp.search_records_no_nav') }}" width="50%" frameborder="0"></iframe> 
+            <iframe class="flex-search" onload="autoResizeFull(this);" src="{{ url_for('homepage_bp.real_time_weather_no_nav') }}" width="50%" frameborder="0"></iframe> 
+        </div>
+        
+        <br>
+    </main>
+{% endblock %}

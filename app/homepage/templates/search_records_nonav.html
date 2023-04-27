@@ -1,0 +1,43 @@
+{% extends 'layout.html' %}
+{% block css %}
+    <title>Outage Viewer</title>
+    <link rel="stylesheet" href="{{ url_for('homepage_bp.static', filename='home.css') }}"> 
+{% endblock %}
+
+{% block content %}
+
+  <main style="width: 95%; height: 100vh;margin:15px">
+      <form action="/search-records-no-nav" method="post">
+          <h4>Search Historical Records</h4> 
+  
+          <div class="form-row">
+            <div class="form-group col-sm">
+              <label for="county">County:</label>
+              <input class="form-control form-control-sm" type="text" id="county" name="county" value="{{ county }}">
+            </div>
+            <div class="form-group col-sm">
+              <label for="state">State:</label>
+              <input class="form-control form-control-sm" type="text" id="state" name="state" required value="{{ state }}"> 
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group col-sm">
+              <label for="start_date">Start Date (YYYY-MM-DD):</label>
+              <input class="form-control form-control-sm" placeholder="2017-01-01" type="text" id="start_date" name="start_date" value="{{ start_date }}" pattern="20[12][01789]-[01][1-9]-[0-3][0-9]"> 
+            </div>
+            <div class="form-group col-sm">
+              <label for="end_date">End Date (YYYY-MM-DD):</label>
+              <input class="form-control form-control-sm" placeholder="2021-06-28" type="text" id="end_date" name="end_date" value="{{ end_date }}" pattern="20[12][01789]-[01][1-9]-[0-3][0-9]"> 
+            </div>
+          </div>
+  
+          <input class="btn btn-light btn-outline-success btn-sm" style="width: 100%;" type="submit" value="Search" id="search_submit" name="search_submit">
+      </form>
+
+      {% if df is defined %}
+        <br />
+        <h5 style="text-align: center; margin-top: 10px;">{{ num_records|safe }} Records Found</h5>
+        {{ df|safe }}
+      {% endif %}
+  </main>
+{% endblock %}

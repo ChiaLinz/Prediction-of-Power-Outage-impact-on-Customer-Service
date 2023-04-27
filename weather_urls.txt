@@ -1,0 +1,105 @@
+Alabama
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=35.008%2C-88.473%2C30.223%2C-84.889
+Alaska
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=71.365%2C-179.149%2C51.214%2C179.778
+Arizona
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=37.004%2C-114.817%2C31.332%2C-109.045
+Arkansas
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=36.500%2C-94.618%2C33.004%2C-89.644
+California
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=42.010%2C-124.410%2C32.534%2C-114.131
+Colorado
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=41.003%2C-109.060%2C36.992%2C-102.042
+Connecticut
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=42.051%2C-73.728%2C40.980%2C-71.787
+Delaware
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=39.839%2C-75.789%2C38.451%2C-75.049
+Florida
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=31.001%2C-87.635%2C24.523%2C-80.031
+Georgia
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=35.001%2C-85.605%2C30.358%2C-80.840
+
+Hawaii
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=28.402%2C-178.335%2C18.910%2C-154.807
+Idaho
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=49.001%2C-117.243%2C41.988%2C-111.044
+Illinois
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=42.508%2C-91.513%2C36.970%2C-87.495
+Indiana
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=41.761%2C-88.098%2C37.772%2C-84.785
+Iowa
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=43.501%2C-96.640%2C40.376%2C-90.140
+Kansas
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=40.003%2C-102.052%2C36.993%2C-94.588
+Kentucky
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=39.147%2C-89.572%2C36.497%2C-81.965
+Louisiana
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=33.019%2C-94.043%2C28.929%2C-88.817
+Maine
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=47.460%2C-71.084%2C42.978%2C-66.950
+Maryland
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=39.723%2C-79.488%2C37.912%2C-75.049
+
+Massachusetts
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=42.887%2C-73.508%2C41.238%2C-69.928
+Michigan
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=48.239%2C-90.418%2C41.696%2C-82.413
+Minnesota
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=49.384%2C-97.239%2C43.499%2C-89.492
+Mississippi
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=34.996%2C-91.655%2C30.174%2C-88.098
+Missouri
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=40.614%2C-95.775%2C35.996%2C-89.099
+Montana
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=49.001%2C-116.050%2C44.358%2C-104.039
+Nebraska
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=43.002%2C-104.054%2C40.000%2C-95.308
+Nevada
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=42.002%2C-120.006%2C35.002%2C-114.040
+New Hampshire
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=45.305%2C-72.557%2C42.697%2C-70.611
+New Jersey
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=41.357%2C-75.560%2C38.929%2C-73.894
+
+New Mexico
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=37.000%2C-109.050%2C31.332%2C-103.002
+New York
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=45.016%2C-79.762%2C40.496%2C-71.856
+North Carolina
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=36.588%2C-84.322%2C33.842%2C-75.461
+North Dakota
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=49.001%2C-104.049%2C45.935%2C-96.555
+Ohio
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=41.978%2C-84.820%2C38.403%2C-80.519
+Oklahoma
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=37.002%2C-103.003%2C33.616%2C-94.431
+Oregon
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=46.292%2C-124.566%2C41.992%2C-116.464
+Pennsylvania
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=42.270%2C-80.520%2C39.720%2C-74.690
+Rhode Island
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=42.019%2C-71.863%2C41.146%2C-71.121
+South Carolina
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=35.215%2C-83.354%2C32.035%2C-78.542
+
+South Dakota
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=45.945%2C-104.058%2C42.480%2C-96.437
+Tennessee
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=36.678%2C-90.310%2C34.983%2C-81.647
+Texas
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=36.501%2C-106.646%2C25.837%2C-93.508
+Utah
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=42.002%2C-114.053%2C36.998%2C-109.041
+Vermont
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=45.017%2C-73.438%2C42.727%2C-71.465
+Virginia
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=39.466%2C-83.675%2C36.541%2C-75.242
+Washington
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=49.002%2C-124.763%2C45.544%2C-116.916
+West Virginia
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=40.639%2C-82.645%2C37.201%2C-77.720
+Wisconsin
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=47.081%2C-92.888%2C42.492%2C-86.805
+Wyoming
+https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?dataTypes=AWND&dataTypes=PRCP&dataTypes=SNOW&dataTypes=SNWD&dataTypes=TMIN&dataTypes=TMAX&dataTypes=WT01&dataTypes=WT03&dataTypes=WT05&dataTypes=WT07&dataTypes=WT10&dataTypes=WT11&dataTypes=WT16&dataTypes=WT18&startDate=2017-01-01T00%3A00%3A00&endDate=2021-06-21T23%3A59%3A59&bbox=45.006%2C-111.057%2C40.995%2C-104.052
+

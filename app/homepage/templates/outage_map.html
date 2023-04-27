@@ -1,0 +1,16 @@
+{% extends 'layout.html' %}
+{% block css %}
+    <title>Outage Viewer</title>
+    <link rel="stylesheet" href="{{ url_for('homepage_bp.static', filename='home.css') }}">
+{% endblock %}
+
+{% block content %}
+    {% if nav_flag %} 
+        {% include 'nav.html' %}
+    {% else %}
+    <span></span>
+    {% endif %}
+    <main>
+        {{ map|safe }}
+    </main>
+{% endblock %}
